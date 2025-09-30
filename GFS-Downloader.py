@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 A script to automatically download Global Forecast System (GFS) weather data.
-
 This script reads the configuration from a YAML file, determines the latest available GFS run cycle, creates the download URLs, and downloads the files in parallel to speed up the process.
 """
 import requests
