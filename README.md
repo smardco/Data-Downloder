@@ -1,6 +1,6 @@
 # GFS Weather Data Downloader
 
-A powerful and configurable Python script designed to automatically download weather forecast data from the **NOAA GFS (Global Forecast System) 0.25-degree model**.
+A configurable Python script designed to automatically download weather forecast data from the **NOAA GFS (Global Forecast System) 0.25-degree model**.
 
 This tool automates the entire process, from finding the latest available data to downloading multiple files concurrently and verifying the output.
 
